@@ -1,5 +1,5 @@
 # britive-cli-dist
-Static NPM packing of the Britive CLI
+Static NPM packaging of the Britive CLI
 ### Installing from `.tgz` package:
 Steps to install:
 1. Download the `britive-cli-1.2.6.tgz` from the path: https://github.com/britive/britive-cli-dist/releases/download/v1.2.6/britive-cli-1.2.6.tgz
