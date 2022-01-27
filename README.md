@@ -18,3 +18,4 @@ USAGE
 $ britive COMMAND
 ...
 ```
+More information can be found at https://docs.britive.com/docs/command-line-features
