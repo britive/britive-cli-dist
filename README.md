@@ -5,7 +5,7 @@ Steps to install:
 1. Download britive-cli-<version_number>.tgz from https://github.com/britive/britive-cli-dist/releases/
 ```
 $ sha256sum britive-cli-<version_number>.tgz
-da1585100117a7291e032798c7ed8780f917d614dea37afd29cb74bab3db4b29  britive-cli-2.0.1.tgz
+cfaab17b2b942ed0ab58fc66fbb239c307dbd38b5671e91ad5131e6aa570be1e  britive-cli-2.1.0.tgz
 ```
 2. Install the package from the path where it is downloaded:
 ```sh-session
